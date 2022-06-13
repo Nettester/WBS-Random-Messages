@@ -20,9 +20,3 @@ function getRandomMessage(){
     let number = Math.floor(Math.random() * messages.length);
     return $("#message").empty().append(`<p> ${messages[number]} </p>`);
 }
-
-function getMessage(number) {
-    
-}
-
-console.log(messages);
