@@ -18,7 +18,6 @@ $("#button").click(getRandomMessage);
 
 function getRandomMessage(){
     let number = Math.floor(Math.random() * messages.length);
-    $("#message").empty();
     return $("#message").empty().append(`<p> ${messages[number]} </p>`);
 }
 
