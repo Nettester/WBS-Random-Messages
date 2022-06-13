@@ -1,0 +1,14 @@
+{
+    "messages": [
+        {"message" : "The maximum Level you can reach is 16."},
+        {"message" : "Ingress is an augmented reality massively multiplayer online role-playing location-based game created by Niantic Labs."},
+        {"message" : "Motto: 'The world around you is not what it seems.'"},
+        {"message" : "The initial step a player takes to begin playing Ingress is to choose a faction to align themselves with, either the Enlightened or the Resistance."},
+        {"message" : "Two factions face each other: the Enlightened, who approve the influence of the XM and the action of Shapers, and the Resistance, who are against."},
+        {"message" : "To score points, measured in Mind Units (MUs), for their faction a player must create Control Fields by linking three Portals together in a triangle."},
+        {"message" : "Glyph Hacking, also known as glyphing or glacking, is an extended version of hacking accessible through a Portal's info card. Agents must successfully trace out certain Glyphs in the given amount of time to acquire additional items and earn bonus AP for each Hack."},
+        {"message" : "Power Cubes were developed by Dr. Oliver Lynton-Wolfe working for the Niantic Project as devices that store Exotic Matter (XM) in a way that was previously unavailable."},
+        {"message" : "Resonators are the central item of Ingress, enabling Agents to capture Portals and use them to form Control Fields Δ."},
+        {"message" : "XMP Bursters are the primary weapons used to attack enemy Portals."}
+    ]
+}
